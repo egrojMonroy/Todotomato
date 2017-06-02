@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TodoTomato</string>
+    <string name="main_list">Todos</string>
+    <string name="main_pomodoro">Pomo</string>
+    <string name="settings">Settings</string>
+    <string name="add_item">Agrega una tarea</string>
+    <string name="save">Guardar</string>
+    <string name="note">Notas</string>
+    <string name="start">Inicio</string>
+    <string name="stop">Detener</string>
+    <string name="reset">Reiniciar</string>
+    <string name="pomo_start_message">Tu puedes!</string>
+    <string name="task_time">Tiempo de trabajo</string>
+    <string name="break_time">Tiempo de descanso</string>
+    <string name="close">Cerrar</string>
+    <string name="priority">Prioridad</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_icon">+</string>
+    <string name="due">Fecha limite</string>
+    <string name="warning">"Estas seguro que quieres salir? Esto reiniciara el temporizador."</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="break_message">Toma un descanso.</string>
+    <string name="pomodoro_instructions">
+        Escoge tus tiempos. El tiempo de trabajo es cuanto tiempo te tomara la actividad.
+        El tiempo de descanso es cuanto descansaras hasta la siguiente actividad.
+        Lo recomendado es 25 y 5.
+    </string>
+</resources>
+
